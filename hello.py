@@ -1,6 +1,3 @@
-name = input("Name: ")
-print("Hello, " + name)
-
 ten =["Hoa", "Ha"]
 print(ten[0])
 
